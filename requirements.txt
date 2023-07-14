@@ -1,0 +1,5 @@
+streamlit==1.23.1
+PyPDF2==3.0.1
+chromadb==0.3.26
+langchain==0.0.221
+tiktoken==0.3.3
